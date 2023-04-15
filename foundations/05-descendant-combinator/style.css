@@ -1,0 +1,11 @@
+.container .text{                                   /*class selectors in descendant combinator method*/
+    background-color: yellow;
+    color: red;                                 
+    font-size: 20px;
+    text-align: center;
+}
+
+/*
+.container p{}      /*class selector with type selector*/
+/*div p{}*/         /*type selector with type selector*/
+
