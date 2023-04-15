@@ -1,0 +1,17 @@
+p {
+    background-color: rgb(242, 128, 128);
+    font-family: Verdana, "DejaVu Sans"sans-serif;
+}
+
+#c1 {
+    color: rgb(5, 9, 243);
+    font-size: 36px;
+}
+.class{
+    font-size: 34px;
+}
+#c4{
+    background-color: rgb(73, 251, 76);
+    font-size: 24px;
+    font-weight: bold;
+}
