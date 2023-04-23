@@ -23,6 +23,7 @@ ul {
   list-style-type: none;
   /*need to declare display flex inside this parent even if this parent is inside another parent*/
   display: flex;
+  /*gap too*/
   gap: 30px;
   padding: 10px;
 }
