@@ -49,7 +49,6 @@ a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
-  margin-left: 0px;
 }
 
 ul {
@@ -58,6 +57,7 @@ ul {
   align-items: center;
   margin: auto;
   display: flex;
+  gap: 8px;
 }
 .right{
    display: flex;
