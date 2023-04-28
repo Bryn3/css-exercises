@@ -19,6 +19,8 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8px;
+  gap: 10px;
 }
 
 input {justify-content: space-between;
@@ -44,6 +46,7 @@ ul{
   flex-direction: column;
   align-items: center;
   margin-bottom: 80px;
+  gap: 8px;
 }
 
 .footer,
