@@ -30,14 +30,14 @@ input {justify-content: space-between;
 }
 
 li {
-  list-style: none;
+  list-style: none; /*removes bullets*/
 }
 a {
-  text-decoration: none;
+  text-decoration: none;  /*removes underline*/
   color: grey;
 }
 ul{
-  padding: 0px;
+  padding: 0px; /*uls have default padding, so you need to remove if you see extra space*/
 }
 .content {
   display: flex;
@@ -64,7 +64,7 @@ ul{
 }
 .left-links{
   display: flex;
-  gap: 13px;
+  gap: 13px; /*works even if 2 texts are on top of eachother*/
 }
 .right-links{
   display: flex;
